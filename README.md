@@ -1,17 +1,20 @@
 # SignalPulse
 
-SignalPulse is a **LTE-focused network testing tool** designed to help MSPs and network engineers monitor cellular performance. It measures **download/upload speeds, latency, jitter, packet loss, and LTE signal metrics** (RSRP, RSRQ, SINR), generating a **one-page PDF report with traffic-light summaries and charts**.  
+SignalPulse is a **LTE-focused network testing tool** designed to **measure cellular performance and VoIP quality**. It monitors download/upload speeds, latency, jitter, packet loss, and LTE signal metrics (RSRP, RSRQ, SINR), and generates a **PDF report with charts and traffic-light summaries**.  
+
+> **Note:** This is currently a **proof-of-concept** script. Later, it is intended to run on a **Raspberry Pi with the Teltonika Calyx HAT** for real LTE metrics.  
 
 ---
 
 ## Features
 
-- Automated ping tests to multiple targets
-- Speedtest CLI integration for real download/upload metrics
-- LTE signal metrics support (RSRP, RSRQ, SINR)
-- VoIP metrics: jitter and packet loss
-- Live JSON logging of results
-- Generates a PDF report with charts and traffic-light indicators
+- Automated **ping tests** to multiple targets  
+- **Speedtest CLI** for download/upload measurements  
+- LTE signal metrics support (RSRP, RSRQ, SINR)  
+- VoIP metrics: **jitter** and **packet loss**  
+- Live JSON logging of results  
+- Generates a **modern PDF report** with traffic-light summary and charts  
+- Designed to be **Raspberry Pi / Teltonika Calyx HAT-ready**  
 
 ---
 
