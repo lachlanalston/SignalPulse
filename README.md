@@ -17,7 +17,12 @@ SignalPulse is a **LTE-focused network testing tool** designed to **measure cell
 - Designed to be **Raspberry Pi / Teltonika Calyx HAT-ready**  
 
 ---
+## Resources
 
+- [Understanding LTE Metrics (RSRP, SINR, etc.)](https://www.teltonika-networks.com/newsroom/beyond-signal-bars-understanding-rssi-rsrp-sinr-and-other-key-metrics)  
+- [Teltonika Calyx HAT Quick Start Guide](https://wiki.teltonika-networks.com/view/QSG_Calyx)
+
+---
 ## Installation
 
 ### 1. Clone the repository
