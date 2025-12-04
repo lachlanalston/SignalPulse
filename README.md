@@ -19,7 +19,8 @@ SignalPulse is a **LTE-focused network testing tool** designed to **measure cell
 ---
 ## Resources
 
-- [Understanding LTE Metrics (RSRP, SINR, etc.)](https://www.teltonika-networks.com/newsroom/beyond-signal-bars-understanding-rssi-rsrp-sinr-and-other-key-metrics)  
+- [Understanding LTE Metrics (RSRP, SINR, etc.)](https://www.teltonika-networks.com/newsroom/beyond-signal-bars-understanding-rssi-rsrp-sinr-and-other-key-metrics)
+- [What Do RSSI & RSRP Mean in Your Network Setup](https://www.teltonika-networks.com/newsroom/what-do-rssi-rsrp-mean-in-your-network-setup)
 - [Teltonika Calyx HAT Quick Start Guide](https://wiki.teltonika-networks.com/view/QSG_Calyx)
 
 ---
