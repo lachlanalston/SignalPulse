@@ -33,16 +33,24 @@ cd SignalPulse
 ```
 
 ### 2. Install Python dependencies
+```bash
 python3 -m pip install --upgrade pip
 pip3 install -r requirements.txt
+```
 
 ### 3. Install system tools
+```bash
 sudo apt update
 sudo apt install -y speedtest-cli
+```
 
 ### 4. (Optional) Run full setup script if included
+```bash
 chmod +x setup.sh
 ./setup.sh
+```
 
-### 5. Run SignalPulse
+### 5. 1Run SignalPulse
+```bash
 python3 main.py
+```
