@@ -44,13 +44,13 @@ sudo apt update
 sudo apt install -y speedtest-cli
 ```
 
-### 4. (Optional) Run full setup script if included
+### 4. Run full setup script if included
 ```bash
 chmod +x setup.sh
 ./setup.sh
 ```
 
-### 5. 1Run SignalPulse
+### 5. Run SignalPulse
 ```bash
 python3 main.py
 ```
